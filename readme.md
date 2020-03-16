@@ -1,14 +1,18 @@
 # Wirez Kit
 
-Wireframe component library for Slack apps.
+Wirez Kit is wireframe component library for Slack apps.
+
+Based on Block Kit, Slack’s native UI framework, Wirez Kit helps you easily mock up and explore multiple Slack workflows right in Figma.
+
+What you get: a Slack desktop app mockup (with modals), 16 UI components, including buttons, text fields and checkboxes, as well as 10 basic message templates.
 
 ## Getting Started
 
-To get started duplicate the Wirez Kit file available on Figma Community. Wirez Kit uses styles from the Wirez wireframe starter file.
+To get started duplicate the Wirez Kit file available on the Figma Community. 
 
 ## Components
 
-Wirez Kit is based on Block Kit, Slack’s native UI framework. Where possible components are built with Figma’s Auto Layout.
+Wirez Kit follows Block Kit, Slack’s native UI framework. Where possible components are built with Figma’s Auto Layout.
 
 The component library includes the following elements: 
 
@@ -22,6 +26,7 @@ The component library includes the following elements:
   * Image
   * Button
   * Select
+  * Datepicker
   * Fields
 * Inputs
   * Singleline [modals only]
