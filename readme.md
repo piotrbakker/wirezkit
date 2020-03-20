@@ -8,7 +8,7 @@ What you get: a Slack desktop app mockup (with modals), 16 UI components, includ
 
 ## Getting Started
 
-To get started duplicate the Wirez Kit file available on the Figma Community. 
+To get started duplicate the Wirez Kit file available on the [Figma Community](https://www.figma.com/community/file/822441601749957276/Wirez-Kit). 
 
 ## Components
 
