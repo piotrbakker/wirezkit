@@ -1,6 +1,6 @@
 # Wirez Kit
 
-Wirez Kit is wireframe component library for Slack apps.
+Wirez Kit is a wireframe component library for Slack apps.
 
 Based on Block Kit, Slack’s native UI framework, Wirez Kit helps you easily mock up and explore multiple Slack workflows right in Figma.
 
